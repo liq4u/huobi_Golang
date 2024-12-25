@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
+	"github.com/liq4u/huobi_golang/pkg/model"
 )
 
 func TestPrivateUrlBuilder_Build_NoRequestParameter_Success(t *testing.T) {

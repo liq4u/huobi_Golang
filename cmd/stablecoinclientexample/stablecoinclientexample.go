@@ -1,9 +1,9 @@
 package stablecoinclientexample
 
 import (
-	"github.com/huobirdcenter/huobi_golang/config"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client"
+	"github.com/liq4u/huobi_golang/config"
+	"github.com/liq4u/huobi_golang/logging/applogger"
+	"github.com/liq4u/huobi_golang/pkg/client"
 )
 
 func RunAllExamples() {

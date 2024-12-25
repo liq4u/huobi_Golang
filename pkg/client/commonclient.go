@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/common"
+	"github.com/liq4u/huobi_golang/internal"
+	"github.com/liq4u/huobi_golang/internal/requestbuilder"
+	"github.com/liq4u/huobi_golang/pkg/model"
+	"github.com/liq4u/huobi_golang/pkg/model/common"
 )
 
 // Responsible to get common information

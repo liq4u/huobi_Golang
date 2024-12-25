@@ -6,12 +6,12 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/huobirdcenter/huobi_golang/internal/gzip"
-	"github.com/huobirdcenter/huobi_golang/internal/model"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/auth"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/base"
+	"github.com/liq4u/huobi_golang/internal/gzip"
+	"github.com/liq4u/huobi_golang/internal/model"
+	"github.com/liq4u/huobi_golang/internal/requestbuilder"
+	"github.com/liq4u/huobi_golang/logging/applogger"
+	"github.com/liq4u/huobi_golang/pkg/model/auth"
+	"github.com/liq4u/huobi_golang/pkg/model/base"
 )
 
 const (

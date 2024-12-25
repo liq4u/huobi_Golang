@@ -5,10 +5,10 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/wallet"
+	"github.com/liq4u/huobi_golang/internal"
+	"github.com/liq4u/huobi_golang/internal/requestbuilder"
+	"github.com/liq4u/huobi_golang/pkg/model"
+	"github.com/liq4u/huobi_golang/pkg/model/wallet"
 )
 
 // Responsible to operate wallet
