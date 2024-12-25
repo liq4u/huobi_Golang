@@ -1,4 +1,4 @@
-module github.com/huobirdcenter/huobi_golang
+module github.com/liq4u/huobi_golang
 
 go 1.22.0
 
